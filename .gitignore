@@ -1,0 +1,10 @@
+# Arquivos compilados pelo SWI-Prolog
+*.qlf
+
+# Arquivos temporários/editor
+*~
+*.swp
+*.swo
+
+# Configurações locais do VS Code
+.vscode/
