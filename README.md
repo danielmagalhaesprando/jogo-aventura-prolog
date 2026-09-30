@@ -28,7 +28,7 @@ O projeto utiliza regras lógicas para controlar o estado do jogo, as ações di
 
 ### Demonstração
 
-![Jogo](screenshots/jogo.png)
+![Final 1](screenshots/final1.png)
 
 ### Execução
 
